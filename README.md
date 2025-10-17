@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YagyeshDeore
 - 👀 I’m interested in Technologies
-- 🌱 I’m currently learning java web developement
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
